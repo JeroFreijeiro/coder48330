@@ -1,0 +1,180 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+}
+
+/* h1{
+    color: rgba(128, 128, 128, 0.534);
+    background-color: aqua;
+    font-weight: 800;
+}
+
+section{
+    padding: 50px 30px 20px 60px;
+    margin-left: 40px;
+}
+
+.bordesRedondeados{
+    border-radius: 20%;
+}
+
+.imgChica{
+    width: 150%;
+    height: 150%;
+}
+
+section article{
+    background-color: #cccccc;
+    width: 500px;
+    height: 500px;
+}
+
+section article h2{
+    text-align: center;
+}
+
+section article p{
+    line-height: 4;
+}
+
+.img{
+    height: 100px;
+    width: 100px;
+} */
+
+/* ul{
+    list-style-type: none;
+} */
+
+/* .navegacion li a{
+    text-decoration: none;
+} */
+
+/* ACTIVIDAD */
+
+/* .actividad1{
+    color: orange;
+}
+
+.clase6{
+    background-color: yellow;
+    height: 100%;
+    width: 100%;
+} */
+
+/* CLASE 6 */
+
+/* #grilla{
+    display: grid;
+    grid-template-areas: "nav header header"
+                        "nav productos publicidad"
+                        "nav servicios publicidad"
+                        "nav footer footer";
+    grid-template-rows: 100px 1fr 1fr 75px;
+    grid-template-columns: 20% auto 15%;
+}
+
+.border{
+    border: 1px solid black;
+}
+
+header{
+    grid-area: header;
+    background-color: rgba(128, 128, 128, 0.664);
+}
+
+footer{
+    grid-area: footer;
+    background-color: rgba(128, 128, 128, 0.664);
+}
+
+section#productos{
+    grid-area: productos;
+}
+
+section#servicios{
+    grid-area: servicios;
+}
+
+nav{
+    grid-area: nav;
+}
+
+aside{
+    grid-area: publicidad;
+} */
+
+/* .contenedor_padre {
+
+    display: grid;
+
+    grid-template-areas: "encabezado  encabezado"
+                        "navegacion productos"
+                        "navegacion servicios"
+                        "pie_de_pagina pie_de_pagina";
+
+    grid-template-columns: 15% 85%;
+    grid-template-rows: 15% 35% 35% 15%;
+
+    gap: 10px
+    
+} */
+
+/* header {
+    grid-area: encabezado;
+    display: flex;
+    justify-content: center;
+    
+}
+
+header img{
+    width: 38px 25px;
+}
+
+nav {
+    grid-area: navegacion;
+}
+
+#productos {
+    grid-area: productos;
+}
+
+#servicios {
+    grid-area: servicios;
+}
+
+footer {
+    grid-area: pie_de_pagina;
+}
+
+.navegacion{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100%;
+}
+
+.navegacion li a{
+    text-decoration: none;
+    padding: 10px;
+    background-color: pink;
+}
+
+.redes_sociales{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+.redes_sociales li a{
+    text-decoration: none;
+}  */
+
+
+/* ------ CLASE 7 ------ */
